@@ -12,7 +12,7 @@ Este projeto é uma aplicação web que combina Spring Boot para o back-end e Re
 ## Configuração do Banco de Dados
 
 1. Inicie XAMPP e certifique-se de que o MySQL está em execução.
-2. Crie um novo banco de dados no MySQL com um nome de sua escolha (para evitar conflitos, use o nomme "develcode").
+2. Crie um novo banco de dados no MySQL com um nome de sua escolha (para evitar conflitos, use o nome "develcode").
 3. Atualize o arquivo de propriedades do projeto Spring Boot (`src/main/resources/application.properties`) com as configurações do banco de dados:
 
 ```properties
