@@ -49,11 +49,11 @@ O projeto será executado na porta padrão do Spring Boot (geralmente `localhost
         ```bash
         cd ../front
         ```
-    - Instale o aplicativo React:
+    - Instale as dependências React:
         ```bash
         npm i
         ```
-     - Instale o aplicativo React:
+     - Execute o aplicativo React:
         ```bash
         npm start
         ```   
