@@ -9,6 +9,12 @@ Este projeto é uma aplicação web que combina Spring Boot para o back-end e Re
 - [Node.js](https://nodejs.org/).
 - [Maven](https://maven.apache.org/) (se você estiver usando Maven para o Spring Boot).
 
+- ### Extensões opcionais VScode 
+
+- Extension Pack for Java
+- Spring Boot Extension Pack
+- Lombok Annotations Support to VScode
+
 ## Configuração do Banco de Dados
 
 1. Inicie XAMPP e certifique-se de que o MySQL está em execução.
